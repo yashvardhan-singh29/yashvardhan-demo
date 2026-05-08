@@ -1,4 +1,4 @@
 # yashvardhan-demo
 This is my first Git Repository
 <br>
-Author- Yashvardhan singh bikawat
+Author- Yashvardhan singh (bana)
